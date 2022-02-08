@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+button.ant-btn.ant-btn-primary.ant-btn-round {
+  background-color: #0059B2
+}
+
+button.ant-btn.ant-btn-primary.login-form-button {
+  background-color: #0059B2
+}
+
+button.ant-btn.ant-btn-primary.ant-btn-lg {
+  background-color: #0059B2
+}
+
+button.ant-btn.ant-btn-primary {
+  background-color: #0059B2
+}
+
+button.ant-btn.ant-btn-primary.ant-btn-sm {
+  background-color: #0059B2
+}
